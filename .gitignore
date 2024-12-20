@@ -1,0 +1,11 @@
+# Node.js
+hotel-spa/node_modules/
+hotel-spa/.env
+
+# .NET
+HotelApi/bin/
+HotelApi/obj/
+
+# System
+.DS_Store
+Thumbs.db
